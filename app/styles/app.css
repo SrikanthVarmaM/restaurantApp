@@ -107,7 +107,7 @@ input.ng-invalid.ng-dirty {
 /* customer */
 
 .fm-customer-bkg {
-  background-image: url(../img/customer_bkg.jpg);
+  background-image: url(../images/customer_bkg.jpg);
   opacity: 0.4;
   height: 705px;
 }
