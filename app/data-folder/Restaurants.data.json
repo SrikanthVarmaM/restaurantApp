@@ -1,0 +1,26 @@
+[
+    {
+      "id"    : "angular",
+      "description" : "Angular Restaurant",
+	  "name" : "Restaurant 1",
+	  "price" : 5,
+	  "rating" : 2,
+	  "cuisine": "african"
+    },
+    {
+      "id"    : "babythai",
+      "description" : "Babythai Restaurant",
+	  "name" : "Restaurant 2",
+	  "price" : 3,
+	  "rating" : 4,
+	  "cuisine": "chinese"
+    },
+	{
+      "id"    : "burgerama",
+      "description" : "Burgerama",
+	  "name" : "Restaurant 3",
+	  "price" : 2,
+	  "rating" : 5,
+	  "cuisine": "pizza"
+    }
+]
